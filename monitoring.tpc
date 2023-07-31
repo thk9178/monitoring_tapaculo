@@ -1,0 +1,11 @@
+[General]
+projectName=monitoring
+DataInterval=10000
+databaseName=monitoring.dat
+Backup="@ByteArray({\"devices\": [{\"Ch1Name\": \"Temperature\",\"Ch2Name\": \"Humidity\",\"DashboardNumber\": 0,\"DeviceInterface\": \"192.168.1.121\",\"DeviceName\": \"4F_ServerRoom\",\"DeviceNumber\": \"0004A37DB382\",\"DevicePort\": \"23\",\"DeviceType\": \"TELNET\",\"buzzerAlarm\": \"OFF\",\"ch1_custom\": \"\",\"ch1_max\": \"30.00\",\"ch1_min\": \"10.00\",\"ch1_unit\": \"1\",\"ch2_custom\": \"\",\"ch2_max\": \"0.00\",\"ch2_min\": \"0.00\",\"ch2_unit\": \"3\"}]})"
+DeviceList="@ByteArray({\"devices\": [{\"Ch1Name\": \"Temperature\",\"Ch2Name\": \"Humidity\",\"DashboardNumber\": 0,\"DeviceInterface\": \"192.168.1.121\",\"DeviceName\": \"4F_ServerRoom\",\"DeviceNumber\": \"0004A37DB382\",\"DevicePort\": \"23\",\"DeviceType\": \"TELNET\",\"buzzerAlarm\": \"OFF\",\"ch1_custom\": \"\",\"ch1_max\": \"30.00\",\"ch1_min\": \"10.00\",\"ch1_unit\": \"1\",\"ch2_custom\": \"\",\"ch2_max\": \"0.00\",\"ch2_min\": \"0.00\",\"ch2_unit\": \"3\"}]})"
+dashboardNames=Dashboard 1, Dashboard 2, Dashboard 3, Dashboard 4
+record_start_time=2022-10-17 16:56:44
+record_stop_time=2022-12-13 10:41:33
+ReportSubject=
+ReportAuthor=
